@@ -1,0 +1,46 @@
+{
+    "locale": "en-us",
+    "_version": 1,
+    "created_at": "2020-01-23T09:32:09.268Z",
+    "created_by": "blt828ab71437a69a50",
+    "cta": [],
+    "logo": {
+        "color_image": {
+            "uid": "blt4eb5124c0000d2b3",
+            "created_at": "2019-12-20T07:04:47.887Z",
+            "updated_at": "2019-12-20T07:04:47.887Z",
+            "created_by": "blt828ab71437a69a50",
+            "updated_by": "blt828ab71437a69a50",
+            "content_type": "image/png",
+            "file_size": "1896",
+            "tags": [],
+            "filename": "logo-hover.png",
+            "url": "https://brandmark.io/logo-rank/random/bp.png",
+            "ACL": [],
+            "is_dir": false,
+            "_version": 1,
+            "title": "logo-hover.png"
+        },
+        "link": {
+            "title": "Logo",
+            "href": "/"
+        }
+    },
+    "navigation_section": {
+        "navigation_bar": [
+            {
+                "title": "Home",
+                "link": "/"
+            },
+            {
+                "title": "About",
+                "link": "/about"
+            }
+        ]
+    },
+    "tags": [],
+    "title": "Header Section",
+    "uid": "blt5a597fc872c7d20b",
+    "updated_at": "2020-01-23T09:32:09.268Z",
+    "updated_by": "blt828ab71437a69a50"
+}
